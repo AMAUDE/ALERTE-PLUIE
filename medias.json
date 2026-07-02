@@ -1,0 +1,267 @@
+{
+  "description": "Preuves medias (videos YouTube + articles/rapports sources) rattachees par commune pour attester la veracite des alertes. '_global' = preuves de l'evenement majeur, affichees partout.",
+  "date_maj": "2026-07-02",
+  "avertissement": "Verifier le contexte d'une image/video avant rediffusion (cf. fact-checking PesaCheck sur des images mal attribuees).",
+  "medias": {
+    "_global": [
+      {
+        "type": "video",
+        "id": "YOPyUWhpF8E",
+        "url": "https://www.youtube.com/watch?v=YOPyUWhpF8E",
+        "titre": "Inondations a Km17 (axe Dabou-Yopougon) - pluies diluviennes",
+        "source": "YouTube",
+        "date": "2026-06"
+      },
+      {
+        "type": "video",
+        "id": "pU7LIg0b9go",
+        "url": "https://www.youtube.com/watch?v=pU7LIg0b9go",
+        "titre": "Inondations meurtrieres a Abidjan",
+        "source": "YouTube",
+        "date": "2023-06"
+      },
+      {
+        "type": "video",
+        "id": "HPLzX0XS57M",
+        "url": "https://www.youtube.com/watch?v=HPLzX0XS57M",
+        "titre": "Inondation a Abidjan",
+        "source": "YouTube",
+        "date": "2025-06"
+      },
+      {
+        "type": "article",
+        "url": "https://news.abidjan.net/articles/748317/pluies-diluviennes-plusieurs-quartiers-dabidjan-inondes-des-vehicules-et-des-personnes-font-face-a-la-montee-des-eaux",
+        "titre": "Pluies diluviennes du 28-29/06 : 9 Kilos, Songon, Treichville, Paillet, Yopougon inondes",
+        "source": "Abidjan.net",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "article",
+        "url": "https://news.abidjan.net/articles/748316/fortes-pluies-cocody-songon-yopougon-et-bingerville-en-vigilance-orange-les-autres-communes-en-jaune",
+        "titre": "Vigilance orange : Cocody, Songon, Yopougon, Bingerville (29/06/2026)",
+        "source": "Abidjan.net",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "article",
+        "url": "https://news.abidjan.net/articles/748323/pluies-diluviennes-a-abidjan-plus-dune-dizaine-de-morts-dont-neuf-membres-dune-meme-famille-a-attecoube-et-yopougon",
+        "titre": "Plus d'une dizaine de morts, dont 9 d'une meme famille (Attecoube et Yopougon)",
+        "source": "Abidjan.net",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "article",
+        "url": "https://www.aip.ci/cote-divoire-aip-meteo-vigilance-orange-maintenue-a-abidjan-apres-de-fortes-pluies-perturbant-la-circulation/",
+        "titre": "Vigilance orange maintenue a Abidjan apres de fortes pluies",
+        "source": "AIP",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "article",
+        "url": "https://www.linfodrome.com/societe/122927-intemperies-de-fortes-pluies-provoquent-des-inondations-dans-plusieurs-quartiers-d-abidjan",
+        "titre": "Intemperies : fortes pluies et inondations dans plusieurs quartiers d'Abidjan",
+        "source": "Linfodrome",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "article",
+        "url": "https://reliefweb.int/report/cote-divoire/cote-divoire-inondation-06-2024-pluies-diluviennes-abidjan-banlieues-2024-06-24",
+        "titre": "Rapport de situation - pluies diluviennes (24/06/2024)",
+        "source": "ReliefWeb / OCHA"
+      },
+      {
+        "type": "article",
+        "url": "https://www.jeuneafrique.com/1580885/societe/saison-des-pluies-en-cote-divoire-au-moins-24-morts-en-dix-jours-dinondations/",
+        "titre": "Au moins 24 morts en dix jours d'inondations",
+        "source": "Jeune Afrique"
+      },
+      {
+        "type": "article",
+        "url": "https://abidjan.district.ci/fichiers/LISTES-DES-ZONES-A-RISQUES-Synthese.pdf",
+        "titre": "Liste officielle des 176 sites a risque",
+        "source": "District d'Abidjan"
+      },
+      {
+        "type": "article",
+        "url": "https://www.fratmat.info/article/2642940/societe/pluies-diluviennes-a-abidjan-le-gouvernement-annonce-59-morts",
+        "titre": "Bilan gouvernemental : 59 morts depuis le debut de la saison des pluies (Conseil des ministres du 01/07/2026)",
+        "source": "Fraternité Matin",
+        "date": "2026-07-01"
+      },
+      {
+        "type": "article",
+        "url": "https://www.aip.ci/cote-divoire-aip-lonpc-alerte-sur-lintensification-des-precipitations-et-appelle-au-respect-des-mesures-de-prevention/",
+        "titre": "ONPC : alerte sur l'intensification des precipitations, appel a la prevention",
+        "source": "AIP",
+        "date": "2026-06-30"
+      }
+    ],
+    "Cocody": [
+      {
+        "type": "article",
+        "url": "https://www.fratmat.info/article/205767/societe/abidjan-sous-les-eaux-une-video-des-inondations-a-la-riviera-palmeraie",
+        "titre": "Riviera Palmeraie sous les eaux - video des inondations (28-29/06/2026)",
+        "source": "Fraternité Matin",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "video",
+        "id": "QtYWF50yubw",
+        "url": "https://www.youtube.com/watch?v=QtYWF50yubw",
+        "titre": "Riviera sous les eaux, population piegee",
+        "source": "YouTube - 9kilo",
+        "date": "2024-06-14"
+      },
+      {
+        "type": "article",
+        "url": "https://www.linfodrome.com/societe/97966-pluie-diluvienne-a-abidjan-plusieurs-zones-inondees-a-cocody-et-yopougon",
+        "titre": "Plusieurs zones inondees a Cocody et Yopougon",
+        "source": "Linfodrome"
+      },
+      {
+        "type": "article",
+        "url": "https://www.fratmat.info/article/206139/societe/cocody-la-liste-des-zones-a-risques-dinondations-prefet-dabidjan",
+        "titre": "Liste des zones a risques de Cocody (Prefet)",
+        "source": "Fraternité Matin"
+      }
+    ],
+    "Yopougon": [
+      {
+        "type": "video",
+        "id": "YOPyUWhpF8E",
+        "url": "https://www.youtube.com/watch?v=YOPyUWhpF8E",
+        "titre": "Inondations a Km17 (axe Dabou-Yopougon)",
+        "source": "YouTube",
+        "date": "2026-06"
+      },
+      {
+        "type": "article",
+        "url": "https://news.abidjan.net/articles/748323/pluies-diluviennes-a-abidjan-plus-dune-dizaine-de-morts-dont-neuf-membres-dune-meme-famille-a-attecoube-et-yopougon",
+        "titre": "Yopougon : route aux abords de la nouvelle morgue coupee, morts (29/06/2026)",
+        "source": "Abidjan.net",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "video",
+        "id": "QtYWF50yubw",
+        "url": "https://www.youtube.com/watch?v=QtYWF50yubw",
+        "titre": "Abidjan sous les eaux (Riviera/banlieues)",
+        "source": "YouTube - 9kilo",
+        "date": "2024-06-14"
+      },
+      {
+        "type": "article",
+        "url": "https://www.yeclo.com/inondations-a-abidjan-lonpc-inspecte-12-sites-critiques-a-yopougon",
+        "titre": "L'ONPC inspecte 12 sites critiques a Yopougon",
+        "source": "Yeclo"
+      }
+    ],
+    "Abobo": [
+      {
+        "type": "article",
+        "url": "https://www.scirp.org/journal/paperinformation?paperid=140659",
+        "titre": "Facteurs de la recrudescence des inondations a Abobo (etude)",
+        "source": "Revue scientifique (SCIRP)"
+      },
+      {
+        "type": "article",
+        "url": "https://www.koaci.com/article/2024/06/14/cote-divoire/societe/cote-divoire-inondations-a-abidjan-voici-les-communes-les-plus-touchees_178708.html",
+        "titre": "Inondations : les communes les plus touchees",
+        "source": "KOACI"
+      }
+    ],
+    "Attécoubé": [
+      {
+        "type": "article",
+        "url": "https://www.koaci.com/article/2026/06/29/cote-divoire/societe/cote-divoire-pluies-diluviennes-a-abidjan-neuf-personnes-dune-meme-concession-perissent-dans-les-decombres_198081.html",
+        "titre": "Mossikro : 9 personnes d'une meme concession perissent dans un eboulement (29/06/2026)",
+        "source": "KOACI",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "article",
+        "url": "https://news.abidjan.net/articles/748323/pluies-diluviennes-a-abidjan-plus-dune-dizaine-de-morts-dont-neuf-membres-dune-meme-famille-a-attecoube-et-yopougon",
+        "titre": "Attecoube (Mossikro) : glissement de terrain meurtrier (29/06/2026)",
+        "source": "Abidjan.net",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "article",
+        "url": "https://www.koaci.com/article/2024/06/14/cote-divoire/societe/cote-divoire-inondations-a-abidjan-voici-les-communes-les-plus-touchees_178708.html",
+        "titre": "Inondations : les communes les plus touchees",
+        "source": "KOACI"
+      }
+    ],
+    "Port-Bouët": [
+      {
+        "type": "article",
+        "url": "https://www.koaci.com/article/2024/06/14/cote-divoire/societe/cote-divoire-inondations-a-abidjan-voici-les-communes-les-plus-touchees_178708.html",
+        "titre": "Inondations : les communes les plus touchees",
+        "source": "KOACI"
+      }
+    ],
+    "Treichville": [
+      {
+        "type": "article",
+        "url": "https://news.abidjan.net/articles/748317/pluies-diluviennes-plusieurs-quartiers-dabidjan-inondes-des-vehicules-et-des-personnes-font-face-a-la-montee-des-eaux",
+        "titre": "Rue des Cimenteries inondee (28-29/06/2026)",
+        "source": "Abidjan.net",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "article",
+        "url": "https://www.onpc-ci.org/actualite/les-communes-de-treichville-et-de-marcory-accueillent-les-acteurs-de-lutte-contre-les-inondations",
+        "titre": "Treichville/Marcory : acteurs de lutte contre les inondations",
+        "source": "ONPC"
+      }
+    ],
+    "Marcory": [
+      {
+        "type": "article",
+        "url": "https://www.onpc-ci.org/actualite/les-communes-de-treichville-et-de-marcory-accueillent-les-acteurs-de-lutte-contre-les-inondations",
+        "titre": "Treichville/Marcory : acteurs de lutte contre les inondations",
+        "source": "ONPC"
+      }
+    ],
+    "Koumassi": [
+      {
+        "type": "article",
+        "url": "https://www.koaci.com/article/2024/06/14/cote-divoire/societe/cote-divoire-inondations-a-abidjan-voici-les-communes-les-plus-touchees_178708.html",
+        "titre": "Inondations : les communes les plus touchees",
+        "source": "KOACI"
+      }
+    ],
+    "Songon": [
+      {
+        "type": "video",
+        "id": "YOPyUWhpF8E",
+        "url": "https://www.youtube.com/watch?v=YOPyUWhpF8E",
+        "titre": "Inondations Km17 / axe Dabou-Yopougon (proche Songon)",
+        "source": "YouTube",
+        "date": "2026-06"
+      },
+      {
+        "type": "article",
+        "url": "https://news.abidjan.net/articles/748317/pluies-diluviennes-plusieurs-quartiers-dabidjan-inondes-des-vehicules-et-des-personnes-font-face-a-la-montee-des-eaux",
+        "titre": "Songon Carrefour Hevea inonde (28-29/06/2026)",
+        "source": "Abidjan.net",
+        "date": "2026-06-29"
+      }
+    ],
+    "Bingerville": [
+      {
+        "type": "article",
+        "url": "https://news.abidjan.net/articles/748316/fortes-pluies-cocody-songon-yopougon-et-bingerville-en-vigilance-orange-les-autres-communes-en-jaune",
+        "titre": "Bingerville en vigilance orange (29/06/2026)",
+        "source": "Abidjan.net",
+        "date": "2026-06-29"
+      },
+      {
+        "type": "article",
+        "url": "https://www.alwihdainfo.com/cote-divoire-des-mesures-gouvernementales-pour-contrer-les-inondations-a-bingerville/",
+        "titre": "Mesures gouvernementales pour contrer les inondations a Bingerville",
+        "source": "AlwihdaInfo"
+      }
+    ]
+  }
+}

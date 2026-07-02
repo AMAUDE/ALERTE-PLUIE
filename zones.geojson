@@ -1,0 +1,701 @@
+{
+  "type": "FeatureCollection",
+  "name": "ALERTE_PLUIE_zones_a_risque_Abidjan",
+  "metadata": {
+    "ville": "Abidjan",
+    "pays": "Côte d'Ivoire",
+    "fond_de_carte": "OpenStreetMap (OSM)",
+    "date_maj": "2026-06-29",
+    "coordonnees_corrigees": "Positions ajustées manuellement dans QGIS par l'administrateur le 2026-06-29",
+    "total_sites_district": 176,
+    "sites_critiques_district": 77,
+    "rappel_2024": "13-14 juin 2024 : 500 mm de pluie en 2 jours, 24 morts (ONPC), 16 010 personnes affectées, 439 familles déplacées",
+    "sources": [
+      "District Autonome d'Abidjan (abidjan.district.ci)",
+      "ONPC - Office National de la Protection Civile",
+      "SODEXAM",
+      "Ministère de la Solidarité (solidarite.gouv.ci)",
+      "Presse : Fratmat, Linfodrome, Nordsud, Yeclo, KOACI"
+    ]
+  },
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COC-01",
+        "localite": "Cocody",
+        "quartier": "Riviera 3 - Le Triangle",
+        "situation": "Bas-fond construit, avaloirs bouchés, montée rapide des eaux",
+        "risque": "Critique",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC / Préfet d'Abidjan",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.963601,
+          5.350151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COC-02",
+        "localite": "Cocody",
+        "quartier": "Bonoumin",
+        "situation": "Zone proche de la lagune, drainage insuffisant",
+        "risque": "Critique",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Préfet d'Abidjan (Riviera-Bonoumin)",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.973582,
+          5.366585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COC-03",
+        "localite": "Cocody",
+        "quartier": "Angré Fondasso",
+        "situation": "Site nécessitant une attention particulière (inondation et glissement)",
+        "risque": "Élevé",
+        "type_risque": "Inondation + glissement de terrain",
+        "statut": "Validé",
+        "source": "ONPC mission Cocody 2026",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.981,
+          5.3905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COC-04",
+        "localite": "Cocody",
+        "quartier": "Djorogobité 1 et 2",
+        "situation": "Sous-quartiers en bas-fond exposés",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Préfet d'Abidjan",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.952888,
+          5.378706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COC-05",
+        "localite": "Cocody",
+        "quartier": "Anono village / Blockhaus",
+        "situation": "Installations le long du talus, risque de glissement",
+        "risque": "Élevé",
+        "type_risque": "Glissement de terrain",
+        "statut": "Validé",
+        "source": "Préfet d'Abidjan",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.997383,
+          5.326557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COC-06",
+        "localite": "Cocody",
+        "quartier": "Talus Carrefour Zoo / Deux Plateaux",
+        "situation": "Installations anarchiques sur talus, risque d'éboulement",
+        "risque": "Modéré",
+        "type_risque": "Glissement de terrain",
+        "statut": "Validé",
+        "source": "Liste district (à confirmer)",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.003312,
+          5.380417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ABO-01",
+        "localite": "Abobo",
+        "quartier": "Bassin d'orage d'Anonkoua-Kouté",
+        "situation": "Constructions anarchiques le long d'un bassin d'orage",
+        "risque": "Critique",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Mairie d'Abobo / ONPC",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.015,
+          5.433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ABO-02",
+        "localite": "Abobo",
+        "quartier": "Sagbé",
+        "situation": "Quartier exposé aux risques d'éboulement et d'inondation",
+        "risque": "Critique",
+        "type_risque": "Inondation + éboulement",
+        "statut": "Validé",
+        "source": "Mairie d'Abobo (15 quartiers surveillés)",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.031152,
+          5.41841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ABO-03",
+        "localite": "Abobo",
+        "quartier": "Biabou",
+        "situation": "Quartier exposé aux risques d'éboulement et d'inondation",
+        "risque": "Élevé",
+        "type_risque": "Inondation + éboulement",
+        "statut": "Validé",
+        "source": "Mairie d'Abobo",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.024,
+          5.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "YOP-01",
+        "localite": "Yopougon",
+        "quartier": "GESCO",
+        "situation": "Secteur exposé aux dépressions et ravines (21 sites à Yopougon)",
+        "risque": "Critique",
+        "type_risque": "Inondation + ravinement",
+        "statut": "Validé",
+        "source": "ONPC (12 sites critiques inspectés)",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.101,
+          5.373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "YOP-02",
+        "localite": "Yopougon",
+        "quartier": "Académie / Pays-Bas",
+        "situation": "Secteur exposé aux dépressions et ravines",
+        "risque": "Élevé",
+        "type_risque": "Inondation + ravinement",
+        "statut": "Validé",
+        "source": "ONPC",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.117646,
+          5.32429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ATT-01",
+        "localite": "Attécoubé",
+        "quartier": "Boribana",
+        "situation": "Installations sous les ponts, zone précaire",
+        "risque": "Critique",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Mairie d'Attécoubé (14 sites)",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.043,
+          5.333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ATT-02",
+        "localite": "Attécoubé",
+        "quartier": "Mossikro (Santé 3)",
+        "situation": "Zone d'érosion, risque de glissement de terrain",
+        "risque": "Critique",
+        "type_risque": "Glissement de terrain",
+        "statut": "Validé",
+        "source": "Mairie d'Attécoubé",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.046805,
+          5.33911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ATT-03",
+        "localite": "Attécoubé",
+        "quartier": "Locodjro (Église Harriste / Mosquée)",
+        "situation": "Constructions anarchiques, ouvrages d'évacuation insuffisants",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Mairie d'Attécoubé",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.039338,
+          5.321698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ATT-04",
+        "localite": "Attécoubé",
+        "quartier": "Banco 2",
+        "situation": "Site recolonisé en zone précaire",
+        "risque": "Modéré",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Mairie d'Attécoubé",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.050073,
+          5.357388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PTB-01",
+        "localite": "Port-Bouët",
+        "quartier": "Amangouakoi (derrière aéroport FHB)",
+        "situation": "Zone basse littorale, drainage insuffisant",
+        "risque": "Critique",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC (9 sites Port-Bouët)",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.912256,
+          5.266062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PTB-02",
+        "localite": "Port-Bouët",
+        "quartier": "Adjouffou Cartons",
+        "situation": "Habitat précaire en zone inondable",
+        "risque": "Critique",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.919402,
+          5.244121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PTB-03",
+        "localite": "Port-Bouët",
+        "quartier": "Vridi",
+        "situation": "Zone côtière basse, proche de la mer et de la lagune",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.979105,
+          5.256883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PTB-04",
+        "localite": "Port-Bouët",
+        "quartier": "Gonzagueville",
+        "situation": "Quartier littoral exposé",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.884905,
+          5.241373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KOU-01",
+        "localite": "Koumassi",
+        "quartier": "Bia Sud",
+        "situation": "Bas-fond proche de la lagune, avaloirs insuffisants",
+        "risque": "Critique",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC / Mairie Koumassi",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95,
+          5.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KOU-02",
+        "localite": "Koumassi",
+        "quartier": "Camp Commando / Sotra Industrie",
+        "situation": "Zone basse, conduits étroits, drainage saturé",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.962099,
+          5.283542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KOU-03",
+        "localite": "Koumassi",
+        "quartier": "Cité Abri 2000",
+        "situation": "Carrefour Église Trinité, accumulation d'eaux pluviales",
+        "risque": "Modéré",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.955,
+          5.296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TRE-01",
+        "localite": "Treichville",
+        "quartier": "Zone 3 - Carrefour équipe Gimat",
+        "situation": "Avaloirs bouchés, conduits étroits, ouvrages insuffisants",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC (visite Treichville/Marcory)",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.993,
+          5.301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TRE-02",
+        "localite": "Treichville",
+        "quartier": "Rond-point Sococe / Rue des Brasseurs",
+        "situation": "Drainage saturé en cas de fortes pluies",
+        "risque": "Modéré",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.008,
+          5.296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAR-01",
+        "localite": "Marcory",
+        "quartier": "Belleville - Cité Bloc T",
+        "situation": "Mitoyen au pont FHB, avaloirs bouchés",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "ONPC (visite Treichville/Marcory)",
+        "date_maj": "2026-06-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.993,
+          5.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ADJ-01",
+        "localite": "Adjamé",
+        "quartier": "Adjamé (assainissement)",
+        "situation": "Commune vulnérable, réseaux pluviaux saturés",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Programme d'assainissement / presse",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.019933,
+          5.350431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ABO-04",
+        "localite": "Abobo",
+        "quartier": "Carrefour 9 Kilos",
+        "situation": "Axe routier submergé et impraticable lors des pluies diluviennes du 28-29/06/2026, circulation bloquée (proche bretelle Adjamé–2e pont)",
+        "risque": "Critique",
+        "type_risque": "Inondation / ruissellement urbain",
+        "statut": "Validé",
+        "source": "Linfodrome (29/06/2026) ; Abidjan.net 748317 (28-29/06/2026)",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.03,
+          5.405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SON-01",
+        "localite": "Songon",
+        "quartier": "Carrefour Hévéa",
+        "situation": "Commune placée en vigilance orange (SODEXAM, 29/06) ; carrefour Hévéa inondé, montée des eaux sur l'axe",
+        "risque": "Élevé",
+        "type_risque": "Inondation / débordement",
+        "statut": "Validé",
+        "source": "Abidjan.net 748316 & 748317 (28-29/06/2026)",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.198,
+          5.305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TRE-03",
+        "localite": "Treichville",
+        "quartier": "Rue des Cimenteries",
+        "situation": "Rue inondée et montée des eaux lors des pluies diluviennes du 28-29/06/2026",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Abidjan.net 748317 (28-29/06/2026)",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.002,
+          5.293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COC-07",
+        "localite": "Cocody",
+        "quartier": "Carrefour Paillet (Deux Plateaux)",
+        "situation": "Axe Paillet–Deux Plateaux inondé ; débris (pans de mur, troncs d'arbres) rétrécissant la chaussée le 29/06",
+        "risque": "Modéré",
+        "type_risque": "Inondation / obstruction de chaussée",
+        "statut": "Validé",
+        "source": "Linfodrome (29/06/2026) ; Abidjan.net 748317 (28-29/06/2026)",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.998,
+          5.355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "YOP-03",
+        "localite": "Yopougon",
+        "quartier": "Carrefour la Zone",
+        "situation": "Commune en vigilance orange (29/06) ; carrefour Zone inondé, montée des eaux",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Abidjan.net 748316 & 748317 (28-29/06/2026)",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.085,
+          5.345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COC-08",
+        "localite": "Cocody",
+        "quartier": "Angré Résidence Émilie",
+        "situation": "Quartier résidentiel (Angré, Résidence Émilie) inondé par les fortes pluies du 29/06/2026",
+        "risque": "Élevé",
+        "type_risque": "Inondation",
+        "statut": "Validé",
+        "source": "Linfodrome (29/06/2026)",
+        "date_maj": "2026-06-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.986,
+          5.392
+        ]
+      }
+    }
+  ]
+}
